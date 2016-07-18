@@ -92,3 +92,18 @@ ENV/
 *.csv
 *.data
 *.xlsx
+*.tsv
+*.json
+*.yaml
+*.yml
+
+
+# Neural Nets / Large Data
+
+*.hdf
+*.h4
+*.hdf4
+*.he2
+*.h5
+*.hdf5
+*.he5
